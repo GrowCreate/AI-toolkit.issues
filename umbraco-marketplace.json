@@ -1,0 +1,45 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "Title": "Growcreate AI Toolkit",
+  "AlternateCategory": "Artificial Intelligence",
+  "Description": "AI Toolkit for Umbraco to generate content, media, alt texts, and metadata. Powered by Azure AI Foundry",
+  "AuthorDetails": {
+    "Name": "Growcreate",
+    "Description": "Growcreate - Move fast without breaking things",
+    "Url": "https://growcreate.co.uk/",
+    "ImageUrl": "https://i.imgur.com/WASOHON.png",
+    "Contributors": [
+      {
+        "Name": "James Dimmer",
+        "Url": "https://www.linkedin.com/in/james-dimmer-853901145/"
+      }
+    ]
+  },
+  "LicenseTypes": [ "Free" ],
+  "IssueTrackerUrl": "https://github.com/GrowCreate/AI-toolkit.issues/issues",
+  "PackageType": "Package",
+  "Screenshots": [
+    {
+      "ImageUrl": "https://i.imgur.com/dZqP7Zg.png",
+      "Caption": "Set your Global Tone"
+    },
+    {
+      "ImageUrl": "https://i.imgur.com/2gRiqHw.png",
+      "Caption": "Set Page/Section specific Tones"
+    },
+    {
+      "ImageUrl": "https://i.imgur.com/FcIZGCx.png",
+      "Caption": "Generate textual and HTML content"
+    },
+    {
+      "ImageUrl": "https://i.imgur.com/mZUqRN1.png",
+      "Caption": "Generate images"
+    },
+    {
+      "ImageUrl": "https://i.imgur.com/FNaTzlc.png",
+      "Caption": "Automatically generate Metadata and Opengraph content"
+    }
+  ],
+  "Tags": [ "umbraco", "toolkit", "genai", "ai", "backoffice" ],
+  "VideoUrl": "https://www.youtube.com/embed/pB4uDvnL1-M"
+}
