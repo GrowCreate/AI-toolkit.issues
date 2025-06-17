@@ -1,11 +1,12 @@
 {
   "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
   "Title": "Growcreate AI Toolkit",
-  "AlternateCategory": "Artificial Intelligence",
+  "Category": "Artificial Intelligence",
+  "AlternateCategory": "Editor Tools",
   "Description": "AI Toolkit for Umbraco to generate content, media, alt texts, and metadata. Powered by Azure AI Foundry",
   "AuthorDetails": {
     "Name": "Growcreate",
-    "Description": "Growcreate - Move fast without breaking things",
+    "Description": "We started small and scrappy back in 2012, but now we’re a team that delivers scalable solutions to businesses worldwide. And we’re just getting started.",
     "Url": "https://growcreate.co.uk/",
     "ImageUrl": "https://i.imgur.com/WASOHON.png",
     "Contributors": [
